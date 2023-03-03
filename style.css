@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: roboto;
+}
+
+    header
+    {
+        display: flex;
+        justify-content: space-between;
+        padding: 2%;
+        background-color: white;
+        color:gray;
+        align-items: center;
+        font-size: 16px;
+        line-height: 1.3;
+        font-weight: 400;
+        box-sizing: border-box;
+        border-left: 2%;
+    }
+    .nav-list{
+        font-size: 20px;
+        display: flex;
+        
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        
+    }
+    .section-1{
+        border: black;
+        margin: 2%;
+        
+        gap: 30px;
+    }
+    
+    .card-1>.titre_doc{
+        margin: 2%;
+        
+        gap: 30px;
+        color: red
+    }
+    .card-1>h1{
+        margin: 2%;
+        
+        gap: 30px;
+        color: blue
+    }
+    .ul{
+       
+            display: flex;
+          
+            align-items: center;
+            text-align: start;
+            margin: 2%;
+            gap: 50px;
+          
+        
+    }
+    .card-2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2%;
+        background-color:#a3c7c2;
+        color: white;
+        border-radius: 25px 25px 25px 25px;
+        width: 400px;
+        height: 650px;
+
+
+    }
+    form{
+        display: block;
+        justify-content: center;
+            align-items: center;
+            text-align: start;
+            margin: 2%;
+            gap: 40px;
+    }
+    label{
+        display: block;
+          
+        align-items: center;
+        text-align: start;
+        margin: 2%;
+        gap: 50px;
+        padding: 15px 32px;
+        text-align: center;
+        font-size: 16px;
+
+    }
+    input{
+        display: block;
+          
+        align-items: center;
+        text-align: start;
+        margin: 2%;
+        gap: 50px;
+        padding: 15px 32px;
+        text-align: center;
+        font-size: 16px;
+
+    }
+    button{
+        color: black;
+    background-color: orange;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 6px 6px 6px 6px;
+    gap: 50px;
+    margin: 2%;
+    justify-content: center;
+}
+
+
+    
+    .section-2{
+        margin: 2%;
+        
+        gap: 30px;
+    }
+    .div-section-2>h1{
+        margin: 2%;
+        
+        gap: 30px;
+        color: blue
+    }
+    .section-3{
+        margin: 2%;
+        
+        gap: 30px;
+    }
+    .div-section-3>h1{
+        margin: 2%;
+        
+        gap: 30px;
+        color: blue
+    }
+    .section-4{
+        margin: 2%;
+        
+        gap: 30px;
+    }
+    .div-section-4>h1{
+        margin: 2%;
+        
+        gap: 30px;
+        color: blue
+    }
+    h3{
+        margin: 2%;
+        
+        gap: 30px;
+        color: blueviolet;
+    }
+    .section-5{
+        margin: 2%;
+        gap: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .div-section-5>h1{
+        margin: 2%;
+        
+        gap: 30px;
+        color: blue
+    }
+    footer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: white;
+        color: gray;
+        padding: 1%;
+    }
+    
